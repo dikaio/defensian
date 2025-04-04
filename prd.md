@@ -1,13 +1,13 @@
 # Product Requirements Document (PRD)
-## Constitutional Analysis and Monitoring System (CAMS)
+## Constitutional Analysis and Monitoring System (Defensian)
 
 ### 1. Executive Summary
 
-The Constitutional Analysis and Monitoring System (CAMS) is a Go-based application designed to analyze existing laws and monitor proposed legislation for potential violations of the US Constitution. The system will provide a social media interface on X (formerly Twitter), allowing users to submit inquiries about constitutional questions through mentions to a dedicated handle (@*). CAMS will be distributed as a compiled binary with an embedded SQLite database, enabling easy deployment while maintaining powerful analysis capabilities.
+The Constitutional Analysis and Monitoring System is a Go-based application designed to analyze existing laws and monitor proposed legislation for potential violations of the US Constitution. The system will provide a social media interface on X (formerly Twitter), allowing users to submit inquiries about constitutional questions through mentions to a dedicated handle (@*). Defensian will be distributed as a compiled binary with an embedded SQLite database, enabling easy deployment while maintaining powerful analysis capabilities.
 
 ### 2. Product Vision
 
-CAMS aims to democratize access to constitutional analysis, providing citizens, journalists, and lawmakers with timely insights into the constitutionality of laws and proposed legislation. By combining legal expertise with modern technology, CAMS will serve as a watchdog for constitutional rights and government limitations.
+Defensian aims to democratize access to constitutional analysis, providing citizens, journalists, and lawmakers with timely insights into the constitutionality of laws and proposed legislation. By combining legal expertise with modern technology, Defensian will serve as a watchdog for constitutional rights and government limitations.
 
 ### 3. Target Users
 
@@ -239,7 +239,7 @@ CAMS aims to democratize access to constitutional analysis, providing citizens, 
 - **User Adoption**: Growing query volume month-over-month
 - **Coverage**: Successfully analyze >95% of federal legislation
 - **Performance**: Meet response time targets for 99% of queries
-- **Impact**: Citations of CAMS analysis in legal, media, or policy contexts
+- **Impact**: Citations of Defensian analysis in legal, media, or policy contexts
 
 ### 13. Appendices
 
